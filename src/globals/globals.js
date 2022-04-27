@@ -1,0 +1,3 @@
+export const API_KEY = '92eea267e3bfd9dd7b5aeb872e757e70';
+export const API_TOKEN = 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI0NjdhZTVmZjRhMmFkMmE1MzJiODE5YTA4MGZiMGU1MiIsInN1YiI6IjVkZDQ0MDZjMjYzNDYyMDAxMmI2MTg4YSIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.EWiHqCznyW1scdahCqeDYIW0OvC25DgJab8GXnNOZTU';
+export const APP_FOLDER_NAME = 'movie-mania';
